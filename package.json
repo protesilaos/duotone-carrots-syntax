@@ -1,13 +1,15 @@
 {
-  "name": "duotone-syntax",
+  "name": "duotone-berries-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
-  "description": "Master template for DuoTone syntax themes",
+  "version": "0.0.0",
+  "description": "Dark theme with red and blue hues. Adapted from Simurai's excellent DuoTone theme",
   "keywords": [
     "duotone",
-    "syntax"
+    "syntax",
+    "red",
+    "blue"
   ],
-  "repository": "https://github.com/simurai/duotone-syntax",
+  "repository": "https://github.com/protesilaos/duotone-berries-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
