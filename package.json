@@ -1,15 +1,16 @@
 {
-  "name": "duotone-berries-syntax",
+  "name": "duotone-carrots-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-  "description": "Dark theme with red and blue hues. Adapted from Simurai's excellent DuoTone theme",
+  "version": "0.0.0",
+  "description": "Light theme with orange and green hues. Adapted from Simurai's excellent DuoTone theme",
   "keywords": [
     "duotone",
     "syntax",
-    "red",
-    "blue"
+    "orange",
+    "green",
+    "light"
   ],
-  "repository": "https://github.com/protesilaos/duotone-berries-syntax",
+  "repository": "https://github.com/protesilaos/duotone-carrots-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"

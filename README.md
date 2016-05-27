@@ -1,3 +1,3 @@
-Dark theme with red and blue hues. Adapted from Simurai's excellent [DuoTone syntax theme](https://github.com/simurai/duotone-syntax).
+Light theme with orange and green hues. Adapted from Simurai's excellent [DuoTone syntax theme](https://github.com/simurai/duotone-syntax).
 
-![DuoTone Berries screenshot](https://raw.githubusercontent.com/protesilaos/duotone-berries-syntax/master/img/duotone_berries.png)
+![DuoTone Carrots screenshot](https://raw.githubusercontent.com/protesilaos/duotone-carrots-syntax/master/img/duotone_carrots.png)
